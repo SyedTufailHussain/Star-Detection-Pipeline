@@ -24,11 +24,15 @@ pip install astropy numpy matplotlib
 
 4. Notes
 
-If the outputs and images are already present in the notebook, you can clear them before execution.
-
+4. Notes
 The repository does not include FITS files due to size constraints. You need to add them manually in the fits folder.
 
-5. Contributing
+A .gitignore file is included to exclude FITS files from being uploaded to GitHub, ensuring the repository remains clean and lightweight.
+
+If the outputs and images are already present in the notebook, you can clear them before execution.
+
+
+6. Contributing
 
 Feel free to contribute by improving the code or adding new features!
 
